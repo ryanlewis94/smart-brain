@@ -1,6 +1,3 @@
-# SmartBrain - v2
-Final project for Udemy course
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+# SmartBrain - Ryan Lewis
+Final project for Udemy course "The Complete Web Devloper in 2019: Zero to Mastery"
+Deployed using heroku
